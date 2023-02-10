@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio",
+    "image": "이미지",
+    "description": "작업물들의 포트폴리오로써 vscode의 모델을 따와서 만들었습니다.",
+    "tags": ["html", "css", "ui-kit", "react"],
+    "source_code": "https://github.com/Jun0903/PORTFOLIO"
+  },
+  {
+    "id": 2,
+    "name": "집꾸미기",
+    "image": "이미지",
+    "description": "부트캠프 당시 만든 개인 작업물입니다.",
+    "tags": ["html", "React", "Javascript", "styledcomponents"],
+    "source_code": "https://github.com/Jun0903/Personal_assignment1"
+  },
+  {
+    "id": 3,
+    "name": "TeamProject1",
+    "image": "이미지",
+    "description": "부트캠프 당시 1차 팀프로젝트로 진행하였습니다.",
+    "tags": ["html", "Javascript", "React", "scss", "styledcomponents"],
+    "source_code": "https://url.kr/scz9ae",
+    "유튜브": "https://youtu.be/EdbJOuHkDoo"
+  },
+  {
+    "id": 4,
+    "name": "TeamProject2",
+    "image": "이미지",
+    "description": "부트캠프 당시 2차 팀프로젝트로 진행하였습니다.",
+    "tags": ["html", "Javascript", "React", "styledcomponents"],
+    "source_code": "https://url.kr/hfi2tw",
+    "유튜브": "https://youtu.be/prtbNIGWW0g"
+  }
+]
