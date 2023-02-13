@@ -1,36 +1,39 @@
 [
   {
-    "id": 1,
+    "copy": "personal",
     "name": "Portfolio",
     "image": "https://raw.githubusercontent.com/Jun0903/PORTFOLIO-API/main/src/portfolio-images/포트폴리오.png",
     "description": "작업물들의 포트폴리오로써 vscode의 모델을 따와서 만들었습니다.",
     "tags": ["html", "css", "ui-kit", "react"],
-    "source_code": "https://github.com/Jun0903/PORTFOLIO"
+    "memo": "",
+    "code": "https://github.com/Jun0903/PORTFOLIO"
   },
   {
-    "id": 2,
+    "copy": "personal",
     "name": "집꾸미기",
     "image": "https://raw.githubusercontent.com/Jun0903/PORTFOLIO-API/main/src/portfolio-images/집꾸미기.png",
     "description": "부트캠프 당시 만든 개인 작업물입니다.",
     "tags": ["html", "React", "Javascript", "styledcomponents"],
-    "source_code": "https://github.com/Jun0903/Personal_assignment1"
+    "memo": "https://velog.io/@taja0903/저스트코드-홈팀-개인과제-회고",
+    "code": "https://github.com/Jun0903/Personal_assignment1"
   },
   {
-    "id": 3,
+    "copy": "team",
     "name": "TeamProject1",
     "image": "https://raw.githubusercontent.com/Jun0903/PORTFOLIO-API/main/src/portfolio-images/팀프로젝트1.png",
     "description": "부트캠프 당시 스테이폴리오를 클론하여, 1차 팀프로젝트로 진행하였습니다.",
     "tags": ["html", "Javascript", "React", "scss", "styledcomponents"],
-    "source_code": "https://url.kr/scz9ae",
-    "유튜브": "https://youtu.be/EdbJOuHkDoo"
+    "code": "https://url.kr/scz9ae",
+    "demo": "https://youtu.be/EdbJOuHkDoo"
   },
   {
-    "id": 4,
+    "copy": "team",
     "name": "TeamProject2",
     "image": "https://raw.githubusercontent.com/Jun0903/PORTFOLIO-API/main/src/portfolio-images/팀프로젝트2.png",
     "description": "부트캠프 당시 핀터레스트를 클론하여, 2차 팀프로젝트로 진행하였습니다.",
     "tags": ["html", "Javascript", "React", "styledcomponents"],
-    "source_code": "https://url.kr/hfi2tw",
-    "유튜브": "https://youtu.be/prtbNIGWW0g"
+    "code": "https://url.kr/hfi2tw",
+    "memo": "https://velog.io/@taja0903/저스트코드-2차프로젝트-회고",
+    "demo": "https://youtu.be/prtbNIGWW0g"
   }
 ]
