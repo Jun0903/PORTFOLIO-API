@@ -6,7 +6,9 @@
     "description": "작업물들의 포트폴리오로써 vscode의 모델을 따와서 만들었습니다.",
     "tags": ["html", "css", "ui-kit", "react"],
     "memo": "",
-    "code": "https://github.com/Jun0903/PORTFOLIO"
+    "carrer": "",
+    "code": "https://github.com/Jun0903/PORTFOLIO",
+    "demo": ""
   },
   {
     "copy": "personal",
@@ -35,5 +37,16 @@
     "code": "https://url.kr/hfi2tw",
     "memo": "https://velog.io/@taja0903/저스트코드-2차프로젝트-회고",
     "demo": "https://www.youtube.com/watch?v=prtbNlGWW0g"
+  },
+  {
+    "copy": "personal",
+    "name": "CryptoTracker",
+    "image": "https://raw.githubusercontent.com/Jun0903/PORTFOLIO-API/main/src/portfolio-images/코인차트.png",
+    "description": "타입스크립트에 대한 공부를 위해 강의들 들으며 만들어 봤습니다.",
+    "tags": ["html", "Typescript", "React", "styledcomponents"],
+    "memo": "",
+    "carrer": "",
+    "code": "https://github.com/Jun0903/react-masterclass",
+    "demo": ""
   }
 ]
